@@ -4,7 +4,6 @@
 This is a **Newspaper Web Application** built as part of the *PTUDW - Final Project*. The application provides a dynamic and feature-rich platform for managing and reading online news articles, tailored for multiple user roles.
 
 ---
-
 ## 🚀 Features
 
 ### **1. Guest System**
